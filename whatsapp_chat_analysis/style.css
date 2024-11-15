@@ -1,0 +1,30 @@
+/* Background color */
+body {
+    background-color: #000;
+}
+
+/* Style for the title ChatLens */
+/*.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 5em; /* Match the original font size */
+    /*color: #00ccff; /* Bright color for title */
+    /*margin: 0;
+    font-weight: bold;
+}
+
+/* Customize Streamlit elements */
+.stButton > button {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+.stSelectbox, .stFileUploader {
+    color: #333;
+}
+
+.stDataFrame, .stDataFrame table {
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+}
